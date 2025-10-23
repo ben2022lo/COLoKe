@@ -1,0 +1,8 @@
+text.usetex: True
+font.family: serif
+axes.labelsize: 9
+font.size: 9
+legend.fontsize: 9
+xtick.labelsize: 9
+ytick.labelsize: 9
+text.latex.preamble: \usepackage{amsmath}
