@@ -11,10 +11,17 @@ This repository contains the official implementation of **COLoKe**, a framework 
 ## Paper
 If you use this work, please cite:
 
-> *Conformal Online Learning of Deep Koopman Linear Embeddings*
-> 
-> Ben Gao, Jordan Patracone, Stéphane Chrétien, Olivier Alata  
-> NeurIPS 2025.
+```bibtex
+@misc{gao2025conformalonlinelearningdeep,
+      title={Conformal Online Learning of Deep Koopman Linear Embeddings}, 
+      author={Ben Gao and Jordan Patracone and Stéphane Chrétien and Olivier Alata},
+      year={2025},
+      eprint={2511.12760},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2511.12760}, 
+}
+```
 
 ## Contact
 For questions, feedback, or collaborations, please contact:  
